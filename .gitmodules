@@ -1,0 +1,21 @@
+[submodule "gpio/libgpiod/c/libgpiod-example"]
+	path = gpio/libgpiod/c/libgpiod-example
+	url = https://github.com/starnight/libgpiod-example.git
+[submodule "gpio/wiringpi/c/WiringPi"]
+	path = gpio/wiringpi/c/WiringPi
+	url = https://github.com/WiringPi/WiringPi.git
+[submodule "gpio/wiringpi/python/WiringPi-Python"]
+	path = gpio/wiringpi/python/WiringPi-Python
+	url = https://github.com/WiringPi/WiringPi-Python.git
+[submodule "bus/can/python/python-can"]
+	path = bus/can/python/python-can
+	url = https://github.com/hardbyte/python-can.git
+[submodule "bus/modbus/python/modbus-cli"]
+	path = bus/modbus/python/modbus-cli
+	url = https://github.com/favalex/modbus-cli.git
+[submodule "bus/modbus/c/libmodbus"]
+	path = bus/modbus/c/libmodbus
+	url = https://github.com/stephane/libmodbus.git
+[submodule "bus/uart/python/pyserial"]
+	path = bus/uart/python/pyserial
+	url = https://github.com/pyserial/pyserial.git
